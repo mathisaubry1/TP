@@ -196,6 +196,16 @@ To https://github.com/AlexSoudant/git-tuto.git
 
 ###########################################################
 
+Pour vous entrainez: 
+
+- Créez un repertoire local
+- Forkez mon repertoire github vers votre github
+- faites le lien entre le repertoire local et votre repertoire github
+- Ajoutez des modifications en local
+- Pushez sur votre repertoire github
+- Faites une pull request pour que j'accepte votre modification
+
+Ajoutez moi un petit chat dans ce fichier pour prouver que vous avez suivi!
 
     /\__/\
    /`    '\
